@@ -1,0 +1,6 @@
+name: LuckyMiner
+version: '1.0-SNAPSHOT'
+main: asia.codeworld.mc.luckyMiner.LuckyMiner
+api-version: '1.21'
+authors: [ codingcat ]
+website: mc.codeworld.asia
